@@ -92,7 +92,7 @@
 				<id>nexus</id>
 		</snapshotRepository>
 		<repository>
-			<id>nexus</nexus>
+			<id>nexus</id>
 			<url>http://54.163.23.222:8081/repository/my-java-release/</url>
 				</repository>
 	
