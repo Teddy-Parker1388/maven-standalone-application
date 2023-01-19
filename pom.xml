@@ -86,4 +86,14 @@
 	  </plugins>
 	</build>
 	
+	<distributionManagement>
+		<snapshotRepository>
+			<url>http://54.163.23.222:8081/repository/maven-snapshots/</url>
+				<id>nexus</id>
+		</snapshotRepository>
+		<repository>
+			<id>nexus</nexus>
+			<url>http://54.163.23.222:8081/repository/my-java-release/</url>
+				</repository>
+	
 </project>
